@@ -1,0 +1,12 @@
+C:\Users\arata\source\repos\NetCore\NetCore.Model\bin\Debug\net6.0\NetCore.Model.deps.json
+C:\Users\arata\source\repos\NetCore\NetCore.Model\bin\Debug\net6.0\NetCore.Model.dll
+C:\Users\arata\source\repos\NetCore\NetCore.Model\bin\Debug\net6.0\NetCore.Model.pdb
+C:\Users\arata\source\repos\NetCore\NetCore.Model\obj\Debug\net6.0\NetCore.Model.csproj.AssemblyReference.cache
+C:\Users\arata\source\repos\NetCore\NetCore.Model\obj\Debug\net6.0\NetCore.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arata\source\repos\NetCore\NetCore.Model\obj\Debug\net6.0\NetCore.Model.AssemblyInfoInputs.cache
+C:\Users\arata\source\repos\NetCore\NetCore.Model\obj\Debug\net6.0\NetCore.Model.AssemblyInfo.cs
+C:\Users\arata\source\repos\NetCore\NetCore.Model\obj\Debug\net6.0\NetCore.Model.csproj.CoreCompileInputs.cache
+C:\Users\arata\source\repos\NetCore\NetCore.Model\obj\Debug\net6.0\NetCore.Model.dll
+C:\Users\arata\source\repos\NetCore\NetCore.Model\obj\Debug\net6.0\refint\NetCore.Model.dll
+C:\Users\arata\source\repos\NetCore\NetCore.Model\obj\Debug\net6.0\NetCore.Model.pdb
+C:\Users\arata\source\repos\NetCore\NetCore.Model\obj\Debug\net6.0\ref\NetCore.Model.dll
